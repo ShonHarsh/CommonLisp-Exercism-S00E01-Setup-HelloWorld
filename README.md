@@ -1,8 +1,8 @@
-![Banner](Data/Images/CSharp-Exercism-S00E01-Setup-HelloWorld-Banner.png)
+![Banner](Data/Images/CommonLisp-Exercism-S00E01-Setup-HelloWorld-Banner.png)
 
-### CSharp-Exercism-S00E01-Setup-HelloWorld
+### CommonLisp-Exercism-S00E01-Setup-HelloWorld
 
-This repository my work for the [Exercism](https://exercism.org/) C# track.
+This repository my work for the [Exercism](https://exercism.org/) Common Lisp track.
 
 ### Download Command
 `exercism download --track=common-lisp --exercise=hello-world`
@@ -10,7 +10,7 @@ This repository my work for the [Exercism](https://exercism.org/) C# track.
 ### Submission Command
 `exercism submit "Exercism\common-lisp\hello-world\hello-world.lisp"`
 
-![Banner](Data/Images/CSharp-Exercism-S00-Basics.png)
+![Banner](Data/Images/CommonLisp-Exercism-S00-HelloWorld-Title.png)
 
 # Hello World
 
